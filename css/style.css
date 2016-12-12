@@ -8,6 +8,7 @@ body{
   color: gray;
   line-height: 1.5;
   padding: 20px;
+  background-image: url('../pictures/asfalt-dark.png');
 }
 
 #container {
@@ -75,4 +76,14 @@ h2{
   padding: 5px;
   margin: 5px;
   display: inline;
+}
+
+#bio img{
+  float: left;
+  margin-right: 20px;
+}
+
+#bio{
+  margin-top: 10px;
+  max-width: 600px;
 }
